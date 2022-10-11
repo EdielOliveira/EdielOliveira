@@ -8,7 +8,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Edieloliveira-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Edieloliveira-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="right" alt="Edieloliveira-pic" height="210" style="border-radius:100px;"  src="https://avatars.githubusercontent.com/u/113260177?s=400&u=8ae5e10786b6e361a5241ceabaeb39a06d8ade29&v=4">
+<img align="right" alt="Edieloliveira-pic" height="195" style="border-radius:70px;"  src="https://avatars.githubusercontent.com/u/113260177?s=400&u=8ae5e10786b6e361a5241ceabaeb39a06d8ade29&v=4">
 </div>
 
  ##
