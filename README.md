@@ -1,6 +1,4 @@
-# Olá! Eu sou o Ediel Oliveira ou "Ediel Dev" 👌 
-### Status do usuario: Estudando/Aprendendo 💻📖 ###
-#
+# Olá! Eu sou o Ediel Oliveira ou "Ediel Dev" 👌 #
 
 <div align="center">
   <a href="https://github.com/EdielOliveira">
