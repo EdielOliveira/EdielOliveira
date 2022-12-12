@@ -1,4 +1,4 @@
-# Olá! Eu sou o Ediel Oliveira ou "Ediel Dev" 👌 #
+<h2 align = "center"> Olá! Eu sou o Ediel Oliveira ou "Ediel Dev" 👌 </h2>
 
 <div align="center">
   <a href="https://github.com/EdielOliveira">
