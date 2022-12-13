@@ -1,5 +1,4 @@
 <h2 align = "center"> Olá! Eu sou o Ediel Oliveira ou "Ediel Dev" 👌 </h2>
-
 <div align="center">
   <a href="https://github.com/EdielOliveira">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EdielOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -21,13 +20,10 @@
     
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
   </a>
-  
-  
  ### 🛠 Plataformas de coding ↓ ###
 ![plataformas](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
   ##
-  
   ![Snake animation](https://github.com/EdielOliveira/EdielOliveira/blob/output/github-contribution-grid-snake.svg)
   
 </div>
