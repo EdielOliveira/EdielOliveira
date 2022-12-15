@@ -4,7 +4,7 @@
  <img src="http://img.shields.io/static/v1?label=Status_do_Ususario&message=%20Estudando&color=BLUE&style=for-the-badge"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div align = "center">
 <a href="https://github.com/EdielOliveira">
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdielOliveira&layout=compact&langs_count=7&theme=dark"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EdielOliveira&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
