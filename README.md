@@ -1,4 +1,4 @@
-<h2 align = "center"> Olá! Eu sou o Ediel Oliveira ou "Ediel Dev" 👌 </h2>
+<h2 align = "center"> Olá! Eu sou o Ediel Oliveira 👌 </h2>
 
 <div align = "center">
  <img src="http://img.shields.io/static/v1?label=Status_do_Ususario&message=%20Estudando&color=BLUE&style=for-the-badge"/>
