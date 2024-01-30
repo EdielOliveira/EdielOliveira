@@ -23,7 +23,6 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,github&theme=dark)](https://skillicons.dev)
 <br>
 
-##
 
 ## <img width=55% src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/93547758-1a1d-4c3a-ae3c-229fca8ada98" alt="wepik-export-20231124122959puq-K" border="0">
 
