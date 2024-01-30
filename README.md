@@ -11,7 +11,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdielOliveira&layout=compact&hide_border=true&title_color=2E8B57&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-## <img width=75% src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/b6a7b3e1-d7ce-49f6-8709-b47a4b744583" alt="wepik-export-20231124122959puq-K" border="0">
+## <img width=75% src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/0c4f931c-27fc-416b-96ea-a3b71a6d3319" alt="wepik-export-20231124122959puq-K" border="0">
 
 <img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/245c7958-8ef4-40f1-a3d1-969dd5eac75a" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -38,7 +38,7 @@
 &nbsp;
 
 
-## <img width=75% src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/93547758-1a1d-4c3a-ae3c-229fca8ada98" alt="wepik-export-20231124122959puq-K" border="0">
+## <img width=75% src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/2479a995-3570-4300-a326-2ca50297890a" alt="wepik-export-20231124122959puq-K" border="0">
 
 <div> 
 <a href="https://www.instagram.com/ed1.16xzx/" target="_blank"><img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/79a04741-05a5-457f-b216-de6c328b904b"width="40px </a>
