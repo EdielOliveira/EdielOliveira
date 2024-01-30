@@ -39,11 +39,11 @@
 ## <img width=75% src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/93547758-1a1d-4c3a-ae3c-229fca8ada98" alt="wepik-export-20231124122959puq-K" border="0">
 
 <div> 
-<a href="https://www.instagram.com/ed1.16xzx/" target="_blank"><img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/79a04741-05a5-457f-b216-de6c328b904b&logo=instagram&logoColor=white"width="40px </a>
+<a href="https://www.instagram.com/ed1.16xzx/" target="_blank"><img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/79a04741-05a5-457f-b216-de6c328b904b"width="40px </a>
 <a href="https://www.youtube.com/channel/UCj-xScD0Gog9C1vl36D5xHA" target="_blank"><img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/7923703e-a5a2-4d12-8caa-63575325d2fd" width="40px target="_blank"></a>
-<a href = "ediel.inacio@outlook.com"> <img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/87faf21d-4313-4140-b2d2-69f0a819d968&logoColor=white" width="40px target="_blank"></a>
-<a href="https://www.linkedin.com/in/ediel-in%C3%A1cio-de-oliveira-silva-3b9348294/" target="_blank"><img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/b6034bee-ee8c-4b09-9b46-7adb898489da&logo=linkedin&logoColor=white" style="border-radius: 30px" width="40px target="_blank"></a> 
-<a href="https://wagxzStdcR" target="_blank"><img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/f021654f-eedb-4e4d-8fce-0677185509bf&logoColor=white" width="40px target="_blank"></a> 
+<a href = "ediel.inacio@outlook.com"> <img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/87faf21d-4313-4140-b2d2-69f0a819d968" width="40px target="_blank"></a>
+<a href="https://www.linkedin.com/in/ediel-in%C3%A1cio-de-oliveira-silva-3b9348294/" target="_blank"><img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/b6034bee-ee8c-4b09-9b46-7adb898489da" style="border-radius: 30px" width="40px target="_blank"></a> 
+<a href="https://wagxzStdcR" target="_blank"><img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/f021654f-eedb-4e4d-8fce-0677185509bf" width="40px target="_blank"></a> 
  </div>
  
 
