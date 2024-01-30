@@ -18,7 +18,7 @@
 >Linguagens que Utilizo:
 
 [![My Skills](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git&theme=dark)](https://skillicons.dev)
 
 ### 
 >Estudando:
