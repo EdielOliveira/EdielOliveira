@@ -1,4 +1,4 @@
-<img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/d55d344e-1da4-4197-946c-c4a19ae94c1c">
+<img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/dabc8b86-e8a2-4a6c-acfc-1519b5c059b8">
 </div>
 
 <p align="center">"The precision of the code shapes the magic of interaction." <br><br>
@@ -11,11 +11,19 @@
 
 ## <img width=55% src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/b6a7b3e1-d7ce-49f6-8709-b47a4b744583" alt="wepik-export-20231124122959puq-K" border="0">
 
+<img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/245c7958-8ef4-40f1-a3d1-969dd5eac75a" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+
 ### 
 >Linguagens que Utilizo:
 
 [![My Skills](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css&theme=dark)](https://skillicons.dev)
+
+### 
+>Estudando:
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,js,css&theme=dark)](https://skillicons.dev)
 
 ###
 >Text Editors:
