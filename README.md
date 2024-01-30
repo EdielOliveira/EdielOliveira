@@ -29,6 +29,11 @@
 >Text Editors:
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,github&theme=dark)](https://skillicons.dev)
+
+>Working Tools:
+>
+<img src="https://logosmarcas.net/wp-content/uploads/2021/03/Asana-Logo.png" width="75px"/>
+
 <br>
 
 
