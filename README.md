@@ -32,19 +32,26 @@
 
 >Working Tools:
 >
-<img src="https://logosmarcas.net/wp-content/uploads/2021/03/Asana-Logo.png" width="75px"/>
+<img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/c551aed3-f175-4927-89e6-b1c702c4ae0d" width="35px"/>
+<img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/9fee8144-92e0-487b-955b-80e4e6f957cc.png" width="45px"/>
+<img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/eebd04dd-0cd1-4f8d-a108-3be6d56a8293" width="45px"/>
+
+
 
 <br>
+
+&nbsp;
+&nbsp;
 
 
 ## <img width=55% src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/93547758-1a1d-4c3a-ae3c-229fca8ada98" alt="wepik-export-20231124122959puq-K" border="0">
 
 <div> 
-<a href="https://www.instagram.com/ed1.16xzx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.youtube.com/channel/UCj-xScD0Gog9C1vl36D5xHA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href = "ediel.inacio@outlook.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/ediel-in%C3%A1cio-de-oliveira-silva-3b9348294/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-<a href="https://wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<a href="https://www.instagram.com/ed1.16xzx/" target="_blank"><img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/79a04741-05a5-457f-b216-de6c328b904b&logo=instagram&logoColor=white"width="40px </a>
+<a href="https://www.youtube.com/channel/UCj-xScD0Gog9C1vl36D5xHA" target="_blank"><img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/7923703e-a5a2-4d12-8caa-63575325d2fd" width="40px target="_blank"></a>
+<a href = "ediel.inacio@outlook.com"> <img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/87faf21d-4313-4140-b2d2-69f0a819d968&logoColor=white" width="40px target="_blank"></a>
+<a href="https://www.linkedin.com/in/ediel-in%C3%A1cio-de-oliveira-silva-3b9348294/" target="_blank"><img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/b6034bee-ee8c-4b09-9b46-7adb898489da&logo=linkedin&logoColor=white" style="border-radius: 30px" width="40px target="_blank"></a> 
+<a href="https://wagxzStdcR" target="_blank"><img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/f021654f-eedb-4e4d-8fce-0677185509bf&logoColor=white" width="40px target="_blank"></a> 
  </div>
  
 
