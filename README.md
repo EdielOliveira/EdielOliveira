@@ -1,5 +1,7 @@
-<img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/dabc8b86-e8a2-4a6c-acfc-1519b5c059b8">
+<img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/c87e73eb-9fc0-4b12-b293-684d5dd01f96">
 </div>
+
+
 
 <p align="center">"The precision of the code shapes the magic of interaction." <br><br>
   Skilled programmer with experience in Java, HTML.<strong> Moderate knowledge in Back End, I use development platforms such as VSCode and Eclipse to create efficient solutions.</strong> Currently, in constant learning, aiming to enhance my skills</strong> focused on web development.</p>&nbsp;
