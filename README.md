@@ -1,31 +1,41 @@
-<h2 align = "center"> Olá! Eu sou o Ediel Oliveira 👌 </h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=120&section=header"/>
 
-<div align = "center">
- <img src="http://img.shields.io/static/v1?label=Status_do_Ususario&message=%20Estudando&color=BLUE&style=for-the-badge"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=System.out.println...;"Hello+World!";My+name+is+Ediel+Oliveira;I'm+17+years+old+and++from+Brazil;I'm+BackEnd+Developer+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdielOliveira&show_icons=true&count_private=true&hide_border=true&title_color=2E8B57&icon_color=2E8B57&text_color=c9d1d9&bg_color=0d1117" alt="Ediel Oliveira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdielOliveira&layout=compact&hide_border=true&title_color=2E8B57&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<div align = "center">
-<a href="https://github.com/EdielOliveira">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdielOliveira&layout=compact&langs_count=7&theme=dark"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=EdielOliveira&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-</div>
- 
-<div align = "center"><br>
-<img align="center" alt="Edieloliveira-Js" height="30" width="40" src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667">
-<img align="center" alt="Edieloliveira-HTML" height="30" width="40" src="https://camo.githubusercontent.com/72e5df59529a42423d671ba4c02bfb327d917517bfff18595c5e5dc17a5abece/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f68746d6c352e737667">
-<img align="center" alt="Edieloliveira-CSS" height="30" width="40" src="https://camo.githubusercontent.com/b788527f604d8e727fcc90d721984125bced85c8a1c9f8da69c6c4a3e51df3c5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f637373332e737667">
-<img align="center"alt="EdielOliveira-Java" height="30" width="40" src="https://camo.githubusercontent.com/a870803f30db1d15495072fa9e946a7fa6a6fc1a47fe12324aaf7509c410fc4a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176612e737667"/>
-</div>
- 
- ##
+<div align="center"> 
+<a href="https://www.instagram.com/ed1.16xzx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.youtube.com/channel/UCj-xScD0Gog9C1vl36D5xHA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href = "ediel.inacio@outlook.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ediel-in%C3%A1cio-de-oliveira-silva-3b9348294/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
 
-<div align = "center">
- 
->Text Editors
-<img align="center" alt="Edieloliveira-HTML" height="30" width="40" src="https://camo.githubusercontent.com/873bde687620927afc2bf3255d3ae649e1d42c423b9b253ca507b188a7e97f45/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f65636c697073652d31312e737667">
-<img align="center" alt="Edieloliveira-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
- 
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EdielOliveira&bg_color=0d1117&color=90EE90&line=90EE90&point=006400&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
+
+### 
+>Linguagens que Utilizo:
+>
+ [![My Skills](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css&theme=dark)](https://skillicons.dev)
+
+###
+>Text Editors:
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,github&theme=dark)](https://skillicons.dev)
+<br>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{EdielOliveira}/count.svg" /></p> 
+<br>
 </div>
- 
-![Snake animation](https://github.com/EdielOliveira/EdielOliveira/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=120&section=footer"/>
