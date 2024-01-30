@@ -1,4 +1,4 @@
-<img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/c87e73eb-9fc0-4b12-b293-684d5dd01f96">
+<img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/c81c918c-4275-44fa-a71d-ebf17ac5cb5b">
 </div>
 
 
