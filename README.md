@@ -30,14 +30,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,github&theme=dark)](https://skillicons.dev)
 
->Working Tools:
->
-<img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/c551aed3-f175-4927-89e6-b1c702c4ae0d" width="35px"/>
-<img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/9fee8144-92e0-487b-955b-80e4e6f957cc.png" width="45px"/>
-<img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/eebd04dd-0cd1-4f8d-a108-3be6d56a8293" width="45px"/>
-
-
-
 <br>
 
 &nbsp;
