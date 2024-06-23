@@ -20,12 +20,13 @@
 
 ## <img width=60% src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/5666950d-6a06-4b91-9a26-c9ef034cd05b" alt="wepik-export-20231124122959puq-K" border="0">
 
-<img width=1000% align="right" src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/1ae112b4-19e2-40f1-8f66-ae2d204d2d78" border="0">
 
 ### 
 >Linguagens que Utilizo:
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,git,python&theme=dark)](https://skillicons.dev)
+ 
+<img width=100% align="right" src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/1ae112b4-19e2-40f1-8f66-ae2d204d2d78" border="0">
 
 ### 
 >Estudando:
