@@ -18,20 +18,19 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdielOliveira&layout=compact&hide_border=true&title_color=824908&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-##
+## <img width=60% src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/5666950d-6a06-4b91-9a26-c9ef034cd05b" alt="wepik-export-20231124122959puq-K" border="0">
 
-<img width=60% src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/5666950d-6a06-4b91-9a26-c9ef034cd05b" alt="wepik-export-20231124122959puq-K" border="0">
+<img width=50% align="right" src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/1ae112b4-19e2-40f1-8f66-ae2d204d2d78" border="0">
 
 ### 
 >Linguagens que Utilizo:
 
-[![My Skills](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,git,python&theme=dark)](https://skillicons.dev)
 
 ### 
 >Estudando:
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,js,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,js,html,css,python&theme=dark)](https://skillicons.dev)
 
 ###
 >Text Editors:
