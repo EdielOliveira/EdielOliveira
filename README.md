@@ -10,7 +10,7 @@
 </div>
 
 
-<p align="center">"The precision of the code shapes the magic of interaction." <br><br>
+<p align="center"> <br>
   Skilled programmer with experience in Java, HTML.<strong> Moderate knowledge in Back End, I use development platforms such as VSCode and Eclipse to create efficient solutions.</strong> Currently, in constant learning, aiming to enhance my skills</strong> focused on web development.</p>&nbsp;
 
 <div align="center">  
@@ -19,14 +19,12 @@
 </div>
 
 ## <img width=60% src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/5666950d-6a06-4b91-9a26-c9ef034cd05b" alt="wepik-export-20231124122959puq-K" border="0">
-
-
+ <img width=50% align="right" src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/1ae112b4-19e2-40f1-8f66-ae2d204d2d78">
+ 
 ### 
 >Linguagens que Utilizo:
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,git,python&theme=dark)](https://skillicons.dev)
- 
-<img width=50% align="right" src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/1ae112b4-19e2-40f1-8f66-ae2d204d2d78" border="0">
 
 ### 
 >Estudando:
@@ -43,9 +41,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=figma,photoshop,pr&theme=dark)](https://skillicons.dev)
 
-
-
-<br>
+## 
 
 <img width=60% src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/fdd707f0-8d41-466d-a0b2-2e8fa57dfd86" alt="wepik-export-20231124122959puq-K" border="0">
 
