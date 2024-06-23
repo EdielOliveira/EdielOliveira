@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:50px" width=100% src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/eb924abe-8a77-4fc5-ad79-d0477c75a280.gif" />
+<img align="center" style="margin-bottom:50px" width=50% src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/eb924abe-8a77-4fc5-ad79-d0477c75a280.gif" />
 &nbsp;&nbsp;&nbsp;
  </div>
 
