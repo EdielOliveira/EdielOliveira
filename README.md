@@ -1,20 +1,18 @@
-<img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/c81c918c-4275-44fa-a71d-ebf17ac5cb5b">
-</div>
 
+<img align="center" style="margin-bottom:50px" width=100% src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/eb924abe-8a77-4fc5-ad79-d0477c75a280.gif" />
+&nbsp;&nbsp;&nbsp;
 
+  </div>
 
 <p align="center">"The precision of the code shapes the magic of interaction." <br><br>
   Skilled programmer with experience in Java, HTML.<strong> Moderate knowledge in Back End, I use development platforms such as VSCode and Eclipse to create efficient solutions.</strong> Currently, in constant learning, aiming to enhance my skills</strong> focused on web development.</p>&nbsp;
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdielOliveira&show_icons=true&count_private=true&hide_border=true&title_color=2E8B57&icon_color=2E8B57&text_color=c9d1d9&bg_color=0d1117" alt="Ediel Oliveira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdielOliveira&layout=compact&hide_border=true&title_color=2E8B57&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdielOliveira&show_icons=true&count_private=true&hide_border=true&title_color=824908&icon_color=824908&text_color=c9d1d9&bg_color=0d1117" alt="Ediel Oliveira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdielOliveira&layout=compact&hide_border=true&title_color=824908&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-## <img width=75% src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/0c4f931c-27fc-416b-96ea-a3b71a6d3319" alt="wepik-export-20231124122959puq-K" border="0">
-
-<img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/245c7958-8ef4-40f1-a3d1-969dd5eac75a" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
+<img width=60% src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/5666950d-6a06-4b91-9a26-c9ef034cd05b" alt="wepik-export-20231124122959puq-K" border="0">
 
 ### 
 >Linguagens que Utilizo:
@@ -32,11 +30,14 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,github&theme=dark)](https://skillicons.dev)
 
+
 <br>
 
 ##
 
-## <img width=75% src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/2479a995-3570-4300-a326-2ca50297890a" alt="wepik-export-20231124122959puq-K" border="0">
+<img width=60% src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/fdd707f0-8d41-466d-a0b2-2e8fa57dfd86" alt="wepik-export-20231124122959puq-K" border="0">
+
+
 
 <div>
 <a href= "" target="_blank"><img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/79a04741-05a5-457f-b216-de6c328b904b" width="40px </a>
@@ -53,4 +54,4 @@
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=75975E&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=824908&height=120&section=footer"/>
