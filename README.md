@@ -5,7 +5,9 @@
 
  <div align="center">
    
-[![Repos Badge](https://badges.pufler.dev/repos/EdielOliveira)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/EdielOliveira/EdielOliveira)](https://badges.pufler.dev) [![Updated Badge](https://badges.pufler.dev/updated/EdielOliveira/EdielOliveira)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/EdielOliveira)](https://badges.pufler.dev) 
+[![Visits Badge](https://badges.pufler.dev/visits/EdielOliveira/EdielOliveira)](https://badges.pufler.dev) 
+[![Updated Badge](https://badges.pufler.dev/updated/EdielOliveira/EdielOliveira)](https://badges.pufler.dev)
 
 </div>
 
