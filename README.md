@@ -18,8 +18,8 @@
   <p align="center"> Programador habilidoso com experiência em Java, HTML. Conhecimento moderado em Back End, utilizo plataformas de desenvolvimento como VSCode e Eclipse para criar soluções eficientes. Atualmente, em constante aprendizado, visando aprimorar minhas habilidades focadas em desenvolvimento web. </p>&nbsp;
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdielOliveira&show_icons=true&count_private=true&hide_border=true&title_color=824908&icon_color=824908&text_color=c9d1d9&bg_color=0d1117" alt="Ediel Oliveira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdielOliveira&layout=compact&hide_border=true&title_color=824908&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdielOliveira&show_icons=true&count_private=true&hide_border=false&border_color=824908&title_color=824908&icon_color=824908&text_color=c9d1d9&bg_color=0d1117" alt="Ediel Oliveira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdielOliveira&layout=compact&hide_border=false&border_color=824908&title_color=824908&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 ## <img width=60% src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/5666950d-6a06-4b91-9a26-c9ef034cd05b" alt="wepik-export-20231124122959puq-K" border="0">
