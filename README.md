@@ -25,7 +25,7 @@
 ### 
 >Linguagens que Utilizo:
 
-<img width=50% align="right" src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/1ae112b4-19e2-40f1-8f66-ae2d204d2d78">
+
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,git,python&theme=dark)](https://skillicons.dev)
 
