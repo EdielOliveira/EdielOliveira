@@ -5,7 +5,7 @@
 
 <img width=60% src="https://github.com/user-attachments/assets/11a705ba-1d0b-43d4-80ae-741518963839" alt="About Me">
 
-<img src="https://github.com/user-attachments/assets/ab30fcaf-9418-4582-a00d-c51096a9b785" alt="Profile Image" style="width: 100%; height: auto;margin-right: 10px;">
+<img src="https://github.com/user-attachments/assets/a5e4c63f-85da-4f41-b972-48ab1ee605fb" alt="Profile Image" style="width: 100%; height: auto;margin-right: 10px;">
 
 ## 
   
