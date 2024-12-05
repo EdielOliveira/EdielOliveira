@@ -44,6 +44,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdielOliveira&show_icons=true&count_private=true&hide_border=true&border_color=A68E45&title_color=A68E45&icon_color=A68E45&text_color=c9d1d9&bg_color=0d1117" alt="Ediel Oliveira github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdielOliveira&layout=compact&hide_border=true&border_color=A68E45&title_color=A68E45&text_color=c9d1d9&bg_color=0d1117" />
- 
+
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A68E45&height=120&section=footer"/>
+
+<img width=100% src="https://github.com/user-attachments/assets/84566538-3e24-4fbc-ac29-3721fc8f3aa4"/>
