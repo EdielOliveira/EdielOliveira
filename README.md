@@ -1,65 +1,52 @@
 
-<img align="center" style="margin-bottom:50px" width=100% src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/eb924abe-8a77-4fc5-ad79-d0477c75a280.gif" />
-&nbsp;&nbsp;&nbsp;
+ <img align="center" style="margin-bottom:50px" width=100% src="https://github.com/user-attachments/assets/88ff2285-2595-464d-9e0a-a29cd5678828" />
 
-<div align="center">
- 
-[![Repos Badge](https://badges.pufler.dev/repos/EdielOliveira)](https://badges.pufler.dev) 
-[![Visits Badge](https://badges.pufler.dev/visits/EdielOliveira/EdielOliveira)](https://badges.pufler.dev) 
-[![Updated Badge](https://badges.pufler.dev/updated/EdielOliveira/EdielOliveira)](https://badges.pufler.dev)
+##
 
-</div>
+<img width=60% src="https://github.com/user-attachments/assets/11a705ba-1d0b-43d4-80ae-741518963839" alt="About Me">
 
-<p align="center"> Skilled programmer with experience in Java, HTML.<strong> Moderate knowledge in Back End, I use development platforms such as VSCode and Eclipse to create efficient solutions.</strong> Currently, in constant learning, aiming to enhance my skills</strong> focused on web development. </p>&nbsp;
+<img src="https://github.com/user-attachments/assets/ab30fcaf-9418-4582-a00d-c51096a9b785" alt="Profile Image" style="width: 100%; height: auto;margin-right: 10px;">
+
+## 
   
-<p align="center"> Programador habilidoso com experiência em Java, HTML. Conhecimento moderado em Back End, utilizo plataformas de desenvolvimento como VSCode e Eclipse para criar soluções eficientes. Atualmente, em constante aprendizado, visando aprimorar minhas habilidades focadas em desenvolvimento web. </p>&nbsp;
+<img width=60% src="https://github.com/user-attachments/assets/3e1a146e-76bb-427b-adfa-c3129d29ce25" alt="MySkills">
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdielOliveira&show_icons=true&count_private=true&hide_border=false&border_color=824908&title_color=824908&icon_color=824908&text_color=c9d1d9&bg_color=0d1117" alt="Ediel Oliveira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdielOliveira&layout=compact&hide_border=false&border_color=824908&title_color=824908&text_color=c9d1d9&bg_color=0d1117" />
- 
-</div>
 
-## <img width=60% src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/5666950d-6a06-4b91-9a26-c9ef034cd05b" alt="wepik-export-20231124122959puq-K">
+<img src="https://github.com/user-attachments/assets/4c697688-298c-4e04-903a-5e639162cbd1" widh=100% align="right">
 
-### 
 >Linguagens que Utilizo:
-
-
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,git,python&theme=dark)](https://skillicons.dev)
 
 ### 
 >Estudando:
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,js,html,css,python&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,js,html,c#,css,python&theme=dark)](https://skillicons.dev)
 
 ###
 >Text Editors:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,idea,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,idea,github&theme=dark)](https://skillicons.dev)
 
 ###
 >Design:
 
 [![My Skills](https://skillicons.dev/icons?i=figma,photoshop,pr&theme=dark)](https://skillicons.dev)
 
-<div>
+###
+>Contact:
  
- ## <img width=60% src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/fdd707f0-8d41-466d-a0b2-2e8fa57dfd86" alt="wepik-export-20231124122959puq-K">
-
 <a href= "https://www.linkedin.com/in/ediel-in%C3%A1cio-de-oliveira-silva-3b9348294/" target="_blank"><img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/b6034bee-ee8c-4b09-9b46-7adb898489da" width="60px"></a> 
 <a href= "https://www.discord.com/" target="_blank"><img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/f021654f-eedb-4e4d-8fce-0677185509bf" width="60px"></a> 
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=EdielOliveira&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ##
+ 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdielOliveira&show_icons=true&count_private=true&hide_border=true&border_color=blue&title_color=blue&icon_color=blue&text_color=c9d1d9&bg_color=0d1117" alt="Ediel Oliveira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdielOliveira&layout=compact&hide_border=true&border_color=blue&title_color=blue&text_color=c9d1d9&bg_color=0d1117" />
+ 
+</div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=824908&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BLACK&height=120&section=footer"/>
 
 
