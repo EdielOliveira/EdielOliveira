@@ -1,22 +1,24 @@
-<img align="center" style="margin-bottom:50px" width=100% src="https://github.com/user-attachments/assets/faccd364-99c1-4860-9f06-533b8728a3ec" alt="Intro" />
+ROMANO
+
+ <img align="center" style="margin-bottom:50px" width=100% src="https://github.com/user-attachments/assets/88ff2285-2595-464d-9e0a-a29cd5678828" />
 
 ##
 
-<img width=60% src="https://github.com/user-attachments/assets/dda6f628-d59a-4f5b-89c8-34cc5a11fe52" alt="About Me">
+<img width=60% src="https://github.com/user-attachments/assets/11a705ba-1d0b-43d4-80ae-741518963839" alt="About Me">
 
-<img src="https://github.com/user-attachments/assets/e811e8f1-b7c2-4e5a-998d-cc5e663a4e51" alt="Info" style="width: 100%; height: auto;margin-right: 10px;">
+<img src="https://github.com/user-attachments/assets/a5e4c63f-85da-4f41-b972-48ab1ee605fb" alt="Profile Image" style="width: 100%; height: auto;margin-right: 10px;">
 
-##
+## 
+  
+<img width=60% src="https://github.com/user-attachments/assets/3e1a146e-76bb-427b-adfa-c3129d29ce25" alt="MySkills">
 
-<img width=60% src="https://github.com/user-attachments/assets/feaa038c-15e0-49f3-8306-a2926636d325" alt="MySkills">
 
-
-<img src="https://github.com/user-attachments/assets/0b717ba1-d593-48cd-ac11-41e1cc076a04" alt="Imagem Deco" widh=100% align="right">
+<img src="https://github.com/user-attachments/assets/4c697688-298c-4e04-903a-5e639162cbd1" widh=100% align="right">
 
 >Linguagens que Utilizo:
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,git,python&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,git,python,php&theme=dark)](https://skillicons.dev)
 
 ### 
 >Estudando:
@@ -42,9 +44,9 @@
 ##
  
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdielOliveira&show_icons=true&count_private=true&hide_border=true&border_color=A68E45&title_color=A68E45&icon_color=A68E45&text_color=c9d1d9&bg_color=0d1117" alt="Ediel Oliveira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdielOliveira&layout=compact&hide_border=true&border_color=A68E45&title_color=A68E45&text_color=c9d1d9&bg_color=0d1117" />
-
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdielOliveira&show_icons=true&count_private=true&hide_border=true&border_color=blue&title_color=blue&icon_color=blue&text_color=c9d1d9&bg_color=0d1117" alt="Ediel Oliveira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdielOliveira&layout=compact&hide_border=true&border_color=blue&title_color=blue&text_color=c9d1d9&bg_color=0d1117" />
+ 
 </div>
 
-<img width=100% src="https://github.com/user-attachments/assets/84566538-3e24-4fbc-ac29-3721fc8f3aa4"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BLACK&height=120&section=footer"/>
