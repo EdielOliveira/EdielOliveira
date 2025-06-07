@@ -1,6 +1,4 @@
-ROMANO
-
- <img align="center" style="margin-bottom:50px" width=100% src="https://github.com/user-attachments/assets/88ff2285-2595-464d-9e0a-a29cd5678828" />
+<img align="center" style="margin-bottom:50px" width=100% src="https://github.com/user-attachments/assets/88ff2285-2595-464d-9e0a-a29cd5678828" />
 
 ##
 
