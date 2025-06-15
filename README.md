@@ -10,14 +10,14 @@
 
 <img width=60% src="https://github.com/user-attachments/assets/feaa038c-15e0-49f3-8306-a2926636d325" alt="MySkills">
 
-
-<img src="https://github.com/user-attachments/assets/0b717ba1-d593-48cd-ac11-41e1cc076a04" alt="Imagem Deco" width="30%" align="right">
-
 >Linguagens que Utilizo:
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,cs,php,python,nodejs,mysql,js,git&theme=dark)](https://skillicons.dev)
 
 ### 
+
+<img src="https://github.com/user-attachments/assets/0b717ba1-d593-48cd-ac11-41e1cc076a04" alt="Imagem Deco" align="right">
+
 >Estudando:
 
 [![My Skills](https://skillicons.dev/icons?i=spring,cs,php,python,mysql,js&theme=dark)](https://skillicons.dev)
