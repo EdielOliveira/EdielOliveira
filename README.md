@@ -15,29 +15,37 @@
 
 >Linguagens que Utilizo:
 
-
-[![My Skills](https://skillicons.dev/icons?i=java,js,git,python,php,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,php,python,nodejs,mysql,js,git&theme=dark)](https://skillicons.dev)
 
 ### 
 >Estudando:
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,js,html,c#,python,php&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,cs,php,python,mysql,js&theme=dark)](https://skillicons.dev)
 
 ###
 >Text Editors:
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,idea,github&theme=dark)](https://skillicons.dev)
-
+                         
 ###
 >Design:
 
-[![My Skills](https://skillicons.dev/icons?i=figma,photoshop,pr&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,photoshop,pr,ae,ai&theme=dark)](https://skillicons.dev)
 
 ###
 >Contact:
  
-<a href= "https://www.linkedin.com/in/ediel-in%C3%A1cio-de-oliveira-silva-3b9348294/" target="_blank"><img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/b6034bee-ee8c-4b09-9b46-7adb898489da" width="60px"></a> 
-<a href= "https://www.discord.com/" target="_blank"><img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/f021654f-eedb-4e4d-8fce-0677185509bf" width="60px"></a> 
+<a href="https://www.linkedin.com/in/ediel-in%C3%A1cio-de-oliveira-silva-3b9348294/" target="_blank" style="display:inline-block;">
+  <img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/b6034bee-ee8c-4b09-9b46-7adb898489da" width="60px">
+</a>
+
+<a href="mailto:ediel.inacio@outlook.com" target="_blank" style="display:inline-block;">
+  <img src="https://github.com/user-attachments/assets/49ff30c3-cb3a-447d-838f-177ea9c3aaeb" width="50px">
+</a>
+
+<a href="https://www.discord.com/" target="_blank" style="display:inline-block;">
+  <img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/f021654f-eedb-4e4d-8fce-0677185509bf" width="60px">
+</a>
 
 ##
  
