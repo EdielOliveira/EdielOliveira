@@ -12,7 +12,7 @@
 
 >Linguagens que Utilizo:
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,php,python,mysql,js,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,php,python,mysql,js&theme=dark)](https://skillicons.dev)
 
 ### 
 
