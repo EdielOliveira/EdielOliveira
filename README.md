@@ -20,7 +20,7 @@
 
 >Estudando:
 
-[![My Skills](https://skillicons.dev/icons?i=spring,cs,php,python,mysql,js&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,python,mysql&theme=dark)](https://skillicons.dev)
 
 ###
 >Text Editors:
