@@ -30,7 +30,7 @@
 ###
 >Design:
 
-[![My Skills](https://skillicons.dev/icons?i=figma,photoshop,pr,ae,ai&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,photoshop&theme=dark)](https://skillicons.dev)
 
 ###
 >Contact:
