@@ -1,14 +1,17 @@
-<img align="center" style="margin-bottom:50px" width=100% src="https://github.com/user-attachments/assets/faccd364-99c1-4860-9f06-533b8728a3ec" alt="Intro" />
+ </div>
 
 ##
 
-<img width=60% src="https://github.com/user-attachments/assets/dda6f628-d59a-4f5b-89c8-34cc5a11fe52" alt="About Me">
+<img width="650" height="93" alt="Contacts__1_-removebg-preview" src="https://github.com/user-attachments/assets/c89dc81a-098c-49bf-b2fd-695ddd79c1dc" />
 
-<img src="https://github.com/user-attachments/assets/e811e8f1-b7c2-4e5a-998d-cc5e663a4e51" alt="Info" style="width: 100%; height: auto;margin-right: 10px;">
+<p>Hi👋! I'm Ediel. <br><br>
+Skilled programmer with experience in Java. Moderate knowledge in Back End, I use development platforms such as VSCode and InteliJ to create efficient solutions. Currently, in constant learning, aiming to improve my skills focused on Database.
+  
+  Programador habilidoso com experiência em Java. Conhecimento moderado em Back End, utilizo plataformas de desenvolvimento como VSCode e InteliJ para criar soluções eficientes. Atualmente, em constante aprendizado, visando aprimorar minhas habilidades focadas em Banco de Dados.</p>
 
 ##
 
-<img width=60% src="https://github.com/user-attachments/assets/feaa038c-15e0-49f3-8306-a2926636d325" alt="MySkills">
+<img width="650" height="93" alt="Design_sem_nome__2_-removebg-preview" src="https://github.com/user-attachments/assets/f99f2343-a473-420d-ada9-844b4337a4f7" />
 
 >Linguagens que Utilizo:
 
@@ -30,8 +33,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=figma,photoshop&theme=dark)](https://skillicons.dev)
 
-###
->Contact:
+##
+
+<img width="650" height="93" alt="Contacts-removebg-preview" src="https://github.com/user-attachments/assets/340528db-7db9-4f36-9046-029bb3a973af" /> </br>
+
  
 <a href="https://www.linkedin.com/in/ediel-in%C3%A1cio-de-oliveira-silva-3b9348294/" target="_blank" style="display:inline-block;">
   <img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/b6034bee-ee8c-4b09-9b46-7adb898489da" width="60px">
@@ -44,13 +49,3 @@
 <a href="https://www.discord.com/" target="_blank" style="display:inline-block;">
   <img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/f021654f-eedb-4e4d-8fce-0677185509bf" width="60px">
 </a>
-
-##
- 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdielOliveira&show_icons=true&count_private=true&hide_border=true&border_color=A68E45&title_color=A68E45&icon_color=A68E45&text_color=c9d1d9&bg_color=0d1117" alt="Ediel Oliveira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdielOliveira&layout=compact&hide_border=true&border_color=A68E45&title_color=A68E45&text_color=c9d1d9&bg_color=0d1117" />
-
-</div>
-
-<img width=100% src="https://github.com/user-attachments/assets/84566538-3e24-4fbc-ac29-3721fc8f3aa4"/>
