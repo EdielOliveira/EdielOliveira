@@ -14,9 +14,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,cs,php,python,mysql,js&theme=dark)](https://skillicons.dev)
 
-### 
-
-<img src="https://github.com/user-attachments/assets/0b717ba1-d593-48cd-ac11-41e1cc076a04" alt="Imagem Deco" align="right">
+###
 
 >Estudando:
 
