@@ -45,7 +45,3 @@ Skilled programmer with experience in Java. Moderate knowledge in Back End, I us
 <a href="mailto:ediel.inacio@outlook.com" target="_blank" style="display:inline-block;">
   <img src="https://github.com/user-attachments/assets/49ff30c3-cb3a-447d-838f-177ea9c3aaeb" width="50px">
 </a>
-
-<a href="https://www.discord.com/" target="_blank" style="display:inline-block;">
-  <img src="https://github.com/EdielOliveira/EdielOliveira/assets/113260177/f021654f-eedb-4e4d-8fce-0677185509bf" width="60px">
-</a>
