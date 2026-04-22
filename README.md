@@ -4,10 +4,10 @@
 
 <img width="650" height="93" alt="Contacts__1_-removebg-preview" src="https://github.com/user-attachments/assets/c89dc81a-098c-49bf-b2fd-695ddd79c1dc" />
 
-<p>Hi👋! I'm Ediel. <br><br>
-Skilled programmer with experience in Java. Moderate knowledge in Back End, I use development platforms such as VSCode and InteliJ to create efficient solutions. Currently, in constant learning, aiming to improve my skills focused on Database.
+<p>
+  Hello, my name is Ediel, I am a Developer in training at Cruzeiro do Sul and a Technician graduated from ETEC of Osasco. I have practical experience in programming logic, OOP, and version control, focusing on developing robust applications using Java and Spring. Dedicated to transforming theoretical knowledge into efficient and scalable code.
   
-  Programador habilidoso com experiência em Java. Conhecimento moderado em Back End, utilizo plataformas de desenvolvimento como VSCode e InteliJ para criar soluções eficientes. Atualmente, em constante aprendizado, visando aprimorar minhas habilidades focadas em Banco de Dados.</p>
+  Olá, me chamo Ediel, sou Desenvolvedor em formação pela Cruzeiro do Sul e Técnico formado pela ETEC de Osasco. Tenho experiência prática em lógica de programação, POO e versionamento, com foco no desenvolvimento de aplicações robustas utilizando Java e Spring. Dedicado a transformar conhecimento teórico em código eficiente e escalável.</p>
 
 ##
 
@@ -15,13 +15,13 @@ Skilled programmer with experience in Java. Moderate knowledge in Back End, I us
 
 >Linguagens que Utilizo:
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,php,python,mysql,js&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,php,js&theme=dark)](https://skillicons.dev)
 
 ###
 
 >Estudando:
 
-[![My Skills](https://skillicons.dev/icons?i=spring,python,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,spring,mysql,postgresql&theme=dark)](https://skillicons.dev)
 
 ###
 >Text Editors:
