@@ -1,17 +1,14 @@
  </div>
 
-##
-
-<img width="650" height="93" alt="Contacts__1_-removebg-preview" src="https://github.com/user-attachments/assets/c89dc81a-098c-49bf-b2fd-695ddd79c1dc" />
+<h2>About Me</h2>
 
 <p>
   Hello, my name is Ediel, I am a Developer in training at Cruzeiro do Sul and a Technician graduated from ETEC of Osasco. I have practical experience in programming logic, OOP, and version control, focusing on developing robust applications using Java and Spring. Dedicated to transforming theoretical knowledge into efficient and scalable code.
   
   Olá, me chamo Ediel, sou Desenvolvedor em formação pela Cruzeiro do Sul e Técnico formado pela ETEC de Osasco. Tenho experiência prática em lógica de programação, POO e versionamento, com foco no desenvolvimento de aplicações robustas utilizando Java e Spring. Dedicado a transformar conhecimento teórico em código eficiente e escalável.</p>
 
-##
 
-<img width="650" height="93" alt="Design_sem_nome__2_-removebg-preview" src="https://github.com/user-attachments/assets/f99f2343-a473-420d-ada9-844b4337a4f7" />
+<h2>My Skills</h2>
 
 >Linguagens que Utilizo:
 
@@ -33,9 +30,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=figma,photoshop&theme=dark)](https://skillicons.dev)
 
-##
-
-<img width="650" height="93" alt="Contacts-removebg-preview" src="https://github.com/user-attachments/assets/340528db-7db9-4f36-9046-029bb3a973af" /> </br>
+<h2>Contacts</h2>
 
  
 <a href="https://www.linkedin.com/in/ediel-in%C3%A1cio-de-oliveira-silva-3b9348294/" target="_blank" style="display:inline-block;">
